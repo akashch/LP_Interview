@@ -1,0 +1,16 @@
+{
+  "name": "MDS",
+  "author": "Andrey Kashcheev",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0",
+    "request": "^2.83.0",
+    "websocket": "^1.0.28",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {}
+}
